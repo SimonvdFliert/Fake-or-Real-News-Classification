@@ -1,0 +1,11 @@
+name: tensorflow_env
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - pip
+  - nltk
+  - tensorflow
+  - pip:
+    - pickle-mixin
+    - sklearn
